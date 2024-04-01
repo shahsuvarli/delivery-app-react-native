@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "foodapest",
-    "slug": "foodapest",
+    "name": "delivery-app-react-native",
+    "slug": "delivery-app-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
